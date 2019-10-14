@@ -1,0 +1,40 @@
+.time {
+    color: purple;
+}
+
+.navbar-scores {
+    color: purple;
+}
+
+.navbar-timer {
+    color: purple;
+}
+
+.content {
+    padding: 30 px;
+    text-align: center;
+}
+
+.container{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 40px;
+    width: 100%;
+}
+h2 {
+    text-decoration: bold;
+}
+
+button{
+    border-radius: 25px;
+    color: white;
+    padding: 5px;
+    background-color:purple;
+    font-size: 20px;
+}
+#display {
+    width: 60%;
+    padding: 10px;
+}
+
